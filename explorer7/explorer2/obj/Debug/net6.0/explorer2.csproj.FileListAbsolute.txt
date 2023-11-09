@@ -1,0 +1,14 @@
+C:\Users\semen\source\repos\explorer2\explorer2\bin\Debug\net6.0\explorer2.exe
+C:\Users\semen\source\repos\explorer2\explorer2\bin\Debug\net6.0\explorer2.deps.json
+C:\Users\semen\source\repos\explorer2\explorer2\bin\Debug\net6.0\explorer2.runtimeconfig.json
+C:\Users\semen\source\repos\explorer2\explorer2\bin\Debug\net6.0\explorer2.dll
+C:\Users\semen\source\repos\explorer2\explorer2\bin\Debug\net6.0\explorer2.pdb
+C:\Users\semen\source\repos\explorer2\explorer2\obj\Debug\net6.0\explorer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\source\repos\explorer2\explorer2\obj\Debug\net6.0\explorer2.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\explorer2\explorer2\obj\Debug\net6.0\explorer2.AssemblyInfo.cs
+C:\Users\semen\source\repos\explorer2\explorer2\obj\Debug\net6.0\explorer2.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\explorer2\explorer2\obj\Debug\net6.0\explorer2.dll
+C:\Users\semen\source\repos\explorer2\explorer2\obj\Debug\net6.0\refint\explorer2.dll
+C:\Users\semen\source\repos\explorer2\explorer2\obj\Debug\net6.0\explorer2.pdb
+C:\Users\semen\source\repos\explorer2\explorer2\obj\Debug\net6.0\explorer2.genruntimeconfig.cache
+C:\Users\semen\source\repos\explorer2\explorer2\obj\Debug\net6.0\ref\explorer2.dll

@@ -1,0 +1,17 @@
+C:\Users\semen\source\repos\Explorer\Explorer\obj\Debug\net6.0\Explorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\source\repos\Explorer\Explorer\obj\Debug\net6.0\Explorer.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\Explorer\Explorer\obj\Debug\net6.0\Explorer.AssemblyInfo.cs
+C:\Users\semen\source\repos\Explorer\Explorer\obj\Debug\net6.0\Explorer.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\Explorer\Explorer\bin\Debug\net6.0\Explorer.exe
+C:\Users\semen\source\repos\Explorer\Explorer\bin\Debug\net6.0\Explorer.deps.json
+C:\Users\semen\source\repos\Explorer\Explorer\bin\Debug\net6.0\Explorer.runtimeconfig.json
+C:\Users\semen\source\repos\Explorer\Explorer\bin\Debug\net6.0\Explorer.dll
+C:\Users\semen\source\repos\Explorer\Explorer\bin\Debug\net6.0\Explorer.pdb
+C:\Users\semen\source\repos\Explorer\Explorer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\semen\source\repos\Explorer\Explorer\obj\Debug\net6.0\Explorer.csproj.AssemblyReference.cache
+C:\Users\semen\source\repos\Explorer\Explorer\obj\Debug\net6.0\Explorer.csproj.CopyComplete
+C:\Users\semen\source\repos\Explorer\Explorer\obj\Debug\net6.0\Explorer.dll
+C:\Users\semen\source\repos\Explorer\Explorer\obj\Debug\net6.0\refint\Explorer.dll
+C:\Users\semen\source\repos\Explorer\Explorer\obj\Debug\net6.0\Explorer.pdb
+C:\Users\semen\source\repos\Explorer\Explorer\obj\Debug\net6.0\Explorer.genruntimeconfig.cache
+C:\Users\semen\source\repos\Explorer\Explorer\obj\Debug\net6.0\ref\Explorer.dll
